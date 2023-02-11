@@ -1,0 +1,27 @@
+hr {
+ border-style: none;
+ height: 2px ;
+ background-color: #3b8ebd;
+}
+h1{
+    color: rgb(11, 133, 92);
+    font-family: Georgia, 'Times New Roman', sans-serif;
+}
+img {
+ border-style:inset;
+ border-radius: 100%;
+ border-color: aquamarine;
+ border-width: 4px;
+}
+input{
+    border-style: solid;
+    border-width: 1px;
+}
+.happy {
+    border-style:inset;
+ border-color: #3b8ebd;
+ border-width: 4px;
+}
+a,p {
+    color:black;
+}
